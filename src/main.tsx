@@ -1,5 +1,4 @@
-import App from "@/App.tsx";
-import "@/styles/globals.css";
+import App from "@/app";
 import React from "react";
 import ReactDOM from "react-dom/client";
 
